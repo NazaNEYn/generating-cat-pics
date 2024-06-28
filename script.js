@@ -12,7 +12,7 @@ btn.addEventListener("click", function () {
 
   img.classList.remove("hidden");
 
-  img.src = `/img/cat-${random}.avif`;
+  img.src = `img/cat-${random}.avif`;
 });
 
 reset.addEventListener("click", function () {
