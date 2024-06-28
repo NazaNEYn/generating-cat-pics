@@ -66,11 +66,11 @@ button::before {
   border-radius: 5px;
   top: 0;
   left: -100%;
-  transition: 0.2s ease;
+  transition: 0.4s ease;
 }
 button:hover::before {
   left: 100%;
-  transition: 0.2s ease;
+  transition: 0.4s ease;
 }
 
 button:hover {
